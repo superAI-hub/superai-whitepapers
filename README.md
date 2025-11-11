@@ -114,7 +114,7 @@
 
     <footer>
       <div>Join the SUPERAI revolution — secure, intelligent, decentralized.</div>
-      <div style="margin-top:8px;color:var(--muted)">Website: coming soon · Twitter: @superai_official</div>
+      <div style="margin-top:8px;color:var(--muted)">Website: coming soon · Twitter: @superai___</div>
     </footer>
   </div>
 
