@@ -143,9 +143,6 @@
 
         <div style="margin-top:14px;font-size:13px;color:var(--muted)">
           <strong>Contact</strong><br>
-          Website: coming soon<br>
-          Twitter: <a href="https://x.com/superAI___" style="color:#a78bfa;text-decoration:none">@superAI___</a><br>
-          Email: contact@superai.sol
         </div>
       </aside>
     </div>
