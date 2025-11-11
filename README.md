@@ -3,7 +3,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>SUPERAI — Whitepaper</title>
-  <meta name="description" content="SUPERAI — Decentralized AI on Solana: Security, Developer Tools, Trading Intelligence." />
+  <meta name="description" content="SUPERAI — Decentralized AI on Solana: Security, Developer Tools, and Trading Intelligence." />
   <style>
     :root{
       --bg-dark:#160726;
@@ -24,7 +24,7 @@
       text-align:center;
       padding:48px 20px;
       background-image:
-        linear-gradient(rgba(11,6,26,0.60), rgba(11,6,26,0.60)),
+        linear-gradient(rgba(21,10,42,0.7), rgba(21,10,42,0.7)),
         url('hero-ai.jpg');
       background-size:cover;
       background-position:center;
@@ -64,7 +64,7 @@
   <header class="hero" role="banner">
     <div class="inner">
       <h1>SUPERAI — The Next Evolution of Artificial Intelligence on Solana</h1>
-      <p class="lead">A decentralized AI ecosystem combining Security, Developer Tools, and Trading Intelligence — engineered for performance, privacy and transparency on Solana.</p>
+      <p class="lead">A decentralized AI ecosystem combining Security, Developer Tools, and Trading Intelligence — engineered for performance, privacy, and transparency on Solana.</p>
       <div style="margin-top:14px">
         <span class="token-pill">$SUPERAI</span>
       </div>
@@ -74,65 +74,63 @@
   <main class="container" role="main">
     <section>
       <h2>Executive Summary</h2>
-      <p>SUPERAI is a next-generation decentralized artificial intelligence platform built on Solana. It integrates three pillars — robust on-chain security, developer tooling powered by AI, and automated trading intelligence — into a single composable ecosystem. Our mission is to empower users, developers and institutions to build, secure, and trade with unprecedented speed and confidence.</p>
+      <p>SUPERAI is a decentralized artificial intelligence ecosystem built on Solana, combining security, development tools, and trading automation in one integrated framework. Its mission: empower every user and developer to interact with AI and blockchain safely, efficiently, and transparently.</p>
     </section>
 
     <section>
       <h2>Vision & Mission</h2>
       <p><strong>Vision:</strong> To merge AI and blockchain into a secure, transparent, and self-operating Web3 infrastructure.</p>
-      <p><strong>Mission:</strong> Deliver AI-driven services that protect user assets, accelerate dApp development, and optimize on-chain trading strategies on Solana.</p>
+      <p><strong>Mission:</strong> Deliver AI-driven services that protect user assets, accelerate dApp development, and optimize trading strategies on Solana.</p>
     </section>
 
     <div class="row">
       <div>
         <section>
           <h2>Security Module — Protect</h2>
-          <p><strong>Objective:</strong> Defend user assets, mitigate on-chain threats, and enhance privacy while remaining compliance-friendly.</p>
+          <p><strong>Goal:</strong> Protect your wallet and digital assets with advanced AI-driven privacy and anti-threat systems.</p>
           <ul>
-            <li><strong>Decoy & Disposable Addresses:</strong> Generate user-controlled decoy addresses for low-risk interactions. Decoys can accept temporary payments and forward funds conditionally to a primary wallet.</li>
-            <li><strong>Stealth & One-time Addresses:</strong> Support for stealth addressing patterns where available, minimizing direct traceability between a user’s operational activity and the primary keys.</li>
-            <li><strong>Asset Privacy Layer:</strong> UI-level privacy controls (hide balances, mask tokens, private view) to protect on-device user information.</li>
-            <li><strong>AI Anomaly Detection:</strong> Machine learning models analyze transaction behavior to detect phishing, exploit patterns, and abnormal flows.</li>
-            <li><strong>Self-healing Locks:</strong> Automatic or user-triggered outbound locks, multi-sig escalation, and additional verification steps when suspicious activity is detected.</li>
-            <li><strong>Hardware & Multi-sig Integration:</strong> Seamless interaction with hardware wallets and multisig schemes to reduce single-key risk.</li>
-            <li class="note"><strong>Compliance note:</strong> Privacy and decoy features are designed for legitimate privacy and security — not for illicit concealment. SUPERAI supports lawful cooperation when required by regulation.</li>
+            <li><strong>Fake & Decoy Wallet Addresses:</strong> Automatically generate fake wallet addresses for testing, interaction, or low-risk transactions — keeping your real assets invisible.</li>
+            <li><strong>Asset Masking:</strong> Hide real wallet balances and tokens on-screen while maintaining full functionality.</li>
+            <li><strong>AI Phishing & Exploit Detection:</strong> Detect suspicious transactions or smart contract behaviors before confirmation.</li>
+            <li><strong>AI Anomaly Lockdown:</strong> Auto-lock or require extra confirmation if risky patterns are detected.</li>
+            <li><strong>Stealth Mode:</strong> One-time addresses and transaction splitting for maximum privacy.</li>
           </ul>
+          <p class="note">*Privacy and decoy features are designed to enhance user security, not to conceal illicit activity. SUPERAI complies with international regulations and supports lawful cooperation.</p>
         </section>
 
         <section>
           <h2>Developer Module — Build</h2>
           <ul>
-            <li><strong>SUPERAI DevKit:</strong> AI-assisted code generation, templates and SDK for Solana smart contracts.</li>
-            <li><strong>AI Debugger & Static Analysis:</strong> Detect logic bugs, security vulnerabilities and gas/performance bottlenecks before deployment.</li>
-            <li><strong>Testing & CI/CD:</strong> Integrated testnet sandboxes, automated test runners and deployment helpers to shorten release cycles.</li>
-            <li><strong>API & Integrations:</strong> Accessible REST & WebSocket APIs for telemetry, models and secure signing workflows.</li>
+            <li><strong>SUPERAI DevKit:</strong> AI-assisted SDK for Solana smart contract development and code generation.</li>
+            <li><strong>Bug & Security Analysis:</strong> Automated audits and logic validation powered by AI.</li>
+            <li><strong>Testing Frameworks:</strong> On-chain simulation, debugging, and instant deployment tools.</li>
+            <li><strong>Integration APIs:</strong> Simplified REST & WebSocket APIs to integrate external AI models and blockchain data.</li>
           </ul>
         </section>
 
         <section>
           <h2>Trading Intelligence — Trade</h2>
           <ul>
-            <li><strong>Real-time Market Ingestion:</strong> On-chain and off-chain feeds aggregated into feature-rich signals.</li>
-            <li><strong>Predictive Models & Strategy Engine:</strong> Machine-learned strategies for execution, arbitrage, and portfolio rebalancing.</li>
-            <li><strong>Automation & Copy Trading:</strong> Secure on-chain execution with configurable risk parameters and strategy sharing.</li>
-            <li><strong>Transparent Reporting:</strong> All trade actions are recorded on-chain for auditability and community trust.</li>
+            <li><strong>Market Data Engine:</strong> Aggregate on-chain and off-chain signals for actionable insights.</li>
+            <li><strong>Predictive Models:</strong> Real-time AI-based trading strategies and sentiment prediction.</li>
+            <li><strong>Auto-trading Bots:</strong> Execute trades safely through Solana smart contracts.</li>
+            <li><strong>Transparent Reports:</strong> Every trading move recorded on-chain for full transparency.</li>
           </ul>
         </section>
 
         <section>
           <h2>Tokenomics — $SUPERAI</h2>
           <ul>
-            <li><strong>Token:</strong> SUPERAI ($SUPERAI)</li>
             <li><strong>Total Supply:</strong> 1,000,000,000 $SUPERAI</li>
-            <li><strong>Utilities:</strong> pay for AI services, staking rewards, premium module access, DAO governance, contributor incentives.</li>
-            <li><strong>Deflationary mechanism:</strong> A transparent portion of platform fees is burned to reduce supply over time.</li>
+            <li><strong>Use Cases:</strong> Pay for AI services, staking, governance, developer rewards, premium access.</li>
+            <li><strong>Deflationary:</strong> Part of transaction fees is burned automatically to reduce total supply.</li>
           </ul>
         </section>
       </div>
 
       <aside class="card-small">
         <h2>Governance & Community</h2>
-        <p>SUPERAI will be governed by a decentralized DAO where token holders vote on product upgrades, treasury allocation, partnership approvals, and protocol parameters. Community-driven development and open governance are core principles.</p>
+        <p>SUPERAI will operate as a decentralized DAO, empowering $SUPERAI holders to vote on upgrades, funding, and protocol evolution.</p>
 
         <h2 style="margin-top:16px">Roadmap</h2>
         <div class="roadmap">
@@ -140,38 +138,32 @@
           <div class="item"><div class="checkbox">⬜</div><div><strong>Phase 2:</strong> Security & Developer modules</div></div>
           <div class="item"><div class="checkbox">⬜</div><div><strong>Phase 3:</strong> Trading AI & staking activation</div></div>
           <div class="item"><div class="checkbox">⬜</div><div><strong>Phase 4:</strong> DAO governance activation</div></div>
-          <div class="item"><div class="checkbox">⬜</div><div><strong>Phase 5:</strong> Multi-chain expansion & interoperability</div></div>
+          <div class="item"><div class="checkbox">⬜</div><div><strong>Phase 5:</strong> Multi-chain expansion</div></div>
         </div>
 
         <div style="margin-top:14px;font-size:13px;color:var(--muted)">
           <strong>Contact</strong><br>
           Website: coming soon<br>
-          Twitter: @superai___<br>
+          Twitter: <a href="https://x.com/superAI___" style="color:#a78bfa;text-decoration:none">@superAI___</a><br>
           Email: contact@superai.sol
         </div>
       </aside>
     </div>
 
     <section>
-      <h2>Legal & Compliance Statement</h2>
-      <p>SUPERAI is committed to lawful, ethical design. Privacy features (decoys, stealth, UI masking) are provided strictly to improve user security and privacy. These tools are not intended to facilitate illegal activity. SUPERAI reserves the right to cooperate with lawful requests in accordance with applicable regulations.</p>
+      <h2>Legal & Compliance</h2>
+      <p>SUPERAI upholds lawful, ethical AI design. Privacy tools such as decoy addresses and stealth modes are meant for legitimate asset protection and risk mitigation. All cooperation with regulations follows transparency and user security principles.</p>
     </section>
 
     <section>
-      <h2>Conclusion & Call to Action</h2>
-      <p>SUPERAI brings AI and Solana together into a unified platform focused on security, developer productivity, and trading performance. We invite builders, researchers and the community to join us in shaping a safer and smarter Web3.</p>
+      <h2>Conclusion</h2>
+      <p>SUPERAI merges AI and blockchain into a unified decentralized platform that empowers users to build, protect, and trade with confidence. Together, we redefine the future of Web3 intelligence.</p>
     </section>
 
     <footer>
       <div>© SUPERAI — Build. Protect. Trade. — All rights reserved.</div>
     </footer>
   </main>
-
-</body>
-</html>
-      <div style="margin-top:8px;color:var(--muted)">Website: coming soon · Twitter: @superai___</div>
-    </footer>
-  </div>
 
 </body>
 </html>
